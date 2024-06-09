@@ -15,7 +15,10 @@ MacOS version : Big Sur 11.7.10
 Whats Working?
 - Ethernet
 - GPU Output
+- GPU Acceleration
+- Sleep
 - Speaker (Soundcard Used)
+- Other not tested
 
 # Generate your own serial with GenSMBIOS!
 
