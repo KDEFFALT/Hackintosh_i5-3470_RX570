@@ -19,6 +19,9 @@ Whats Working?
 
 # Generate your own serial with GenSMBIOS!
 
+# Notes
+Config is the same if you want to install MacOS Monterey. Just change SMBIOS to MacPro6,1.
+
 credits
 - Dortania (OpenCore)
 - Olarila (Tools provider)
